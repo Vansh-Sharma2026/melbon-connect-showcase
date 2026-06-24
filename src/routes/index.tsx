@@ -58,7 +58,7 @@ const navItems = [
 function WhatsAppButton() {
   return (
     <a
-      href="https://wa.me/919999005566"
+      href="https://wa.me/919873224503"
       target="_blank"
       rel="noopener noreferrer"
       className="fixed bottom-6 right-6 z-50 flex h-14 w-14 items-center justify-center rounded-full shadow-xl transition-transform hover:scale-110 hover:shadow-2xl"
@@ -344,10 +344,10 @@ function Index() {
                       Phone Number 
                     </h3>
                     <a
-                       href="tel:+919999005566"
+                       href="tel:+919873224503"
                         className="mt-2 text-sm text-muted-foreground hover:text-primary"
                        >
-                        +91 9999005566
+                        +91 9873224503
                     </a>
                   </div>
                   <div className="flex flex-col items-center text-center">
@@ -372,19 +372,19 @@ function Index() {
                       Address
                     </h3>
                     <a
-                       href="https://maps.google.com/?q=IRC INNOVATION B102/3, Industrial Area Phase I, Block C, Naraina Industrial Area Phase 1, Naraina, New Delhi, Delhi 110028"
-                        target="_blank"
+                        href="https://maps.google.com/?q=Bellstar Pvt Ltd A24/2 Naraina Industrial Area Phase-1 New Delhi 110028"
+                      target="_blank"
                        rel="noopener noreferrer"
                        className="mt-2 text-sm text-muted-foreground hover:text-primary"
-                    >
-                      IRC INNOVATION
-                     <br />
-                     B102/3, Industrial Area Phase I, Block C
-                     <br />
-                    Naraina Industrial Area Phase 1
-                   <br />
-                    Naraina, New Delhi, Delhi 110028
-                   </a>
+                      >
+                  Bellstar Pvt Ltd
+                 <br />
+                A24/2
+               <br />
+                Naraina Industrial Area Phase-1
+              <br />
+                New Delhi 110028
+                  </a>
                   </div>
                 </div>
               </CardContent>
